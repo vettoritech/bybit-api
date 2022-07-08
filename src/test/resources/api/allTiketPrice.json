@@ -1,0 +1,28 @@
+{
+  "ret_code": 0,
+  "ret_msg": null,
+  "result": [
+    {
+      "symbol": "PMTEST16USDT",
+      "price": "0.86511"
+    },
+    {
+      "symbol": "DYDXQQT",
+      "price": "0"
+    },
+    {
+      "symbol": "DYDXNEO",
+      "price": "0"
+    },
+    {
+      "symbol": "PMTESTABTC",
+      "price": "0"
+    },
+    {
+      "symbol": "USDTDAI",
+      "price": "0"
+    }
+  ],
+  "ext_code": null,
+  "ext_info": null
+}
